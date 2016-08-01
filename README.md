@@ -6,3 +6,4 @@ CPU：STM32
 图像处理：OpenCv
 C#写的软件，智能车用STM32控制，ESP8266模块连接电脑软件，软件用TCPserver建立端口监听，实现转向控制，图传，图像处理，传感器数据交互。
 
+![image](https://github.com/StarkGuo/Intelligent-car/blob/master/IMG20160603193410.jpg)
